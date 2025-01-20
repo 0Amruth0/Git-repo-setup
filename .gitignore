@@ -1,0 +1,16 @@
+# Exclude temp files
+*.tmp
+*.temp
+
+# Exclude build directories
+/build/
+/out/
+/bin/
+
+# Exclude IDE-specific files
+.vscode/
+.idea/
+
+# Exclude OS-specific files
+.DS_Store
+Thumbs.db
